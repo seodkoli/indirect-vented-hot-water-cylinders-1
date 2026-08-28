@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <urlset
+          xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+     <url>
+                 <loc>index.html</loc>
+                 <lastmod>2026-08-28T11:37:51+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>vented-indirect-hot-water-tank.html</loc>
+                 <lastmod>2026-08-28T11:37:51+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>vented-indirect-cylinder.html</loc>
+                 <lastmod>2026-08-28T11:37:51+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>indirect-vented-water-cylinder.html</loc>
+                 <lastmod>2026-08-28T11:37:51+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>indirect-vented-water-tank.html</loc>
+                 <lastmod>2026-08-28T11:37:51+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>stainless-steel-indirect-vented-hot-water-cylinder.html</loc>
+                 <lastmod>2026-08-28T11:37:51+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>stainless-steel-vented-indirect-hot-water-cylinders.html</loc>
+                 <lastmod>2026-08-28T11:37:51+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>indirect-vented-hot-water-tank.html</loc>
+                 <lastmod>2026-08-28T11:37:51+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>vented-indirect-water-cylinder.html</loc>
+                 <lastmod>2026-08-28T11:37:51+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>indirect-hot-water-cylinder.html</loc>
+                 <lastmod>2026-08-28T11:37:51+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>privacy-policy.html</loc>
+                 <lastmod>2026-08-28T11:37:51+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>feed.xml</loc>
+                 <lastmod>2026-08-28T11:37:51+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sitemap.xml</loc>
+                 <lastmod>2026-08-28T11:37:51+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sitemap.html</loc>
+                 <lastmod>2026-08-28T11:37:51+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>about-us.html</loc>
+                 <lastmod>2026-08-28T11:37:51+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url></urlset>
